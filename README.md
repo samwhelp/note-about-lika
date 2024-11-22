@@ -22,10 +22,17 @@
 
 ## ISO Profile
 
+> 關於「lika-live-build-config」這個專案，是「Live ISO 產生架構」。
+
 | Link | GitHub |
 | ---- | ------ |
 | [lika-live-build-config](https://samwhelp.github.io/lika-live-build-config/) | [GitHub](https://github.com/samwhelp/lika-live-build-config) |
 
+> 以下的專案，則是會複製「lika-live-build-config」這個專案。
+
+> 並將「自訂的設定檔」，複製到「lika-live-build-config」這個專案。
+
+> 最後再進行「製作 Debian Live ISO」的流程。
 
 | Link | GitHub |
 | ---- | ------ |
