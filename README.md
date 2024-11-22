@@ -7,6 +7,7 @@
 | Link | GitHub |
 | ---- | ------ |
 | [Lika OS 探索筆記](https://samwhelp.github.io/note-about-lika/) | [GitHub](https://github.com/samwhelp/note-about-lika) |
+| [Lika OS / Live Build Config / 探索筆記](https://samwhelp.github.io/note-about-lika-live-build-config/) | [GitHub](https://github.com/samwhelp/note-about-lika-live-build-config) |
 
 
 
@@ -28,8 +29,22 @@
 
 | Link | GitHub |
 | ---- | ------ |
-| [lika-live-build-config-develop](https://samwhelp.github.io/lika-live-build-config-develop/) | [GitHub](https://github.com/samwhelp/lika-live-build-config-develop) |
+| [lika-live-build-config-using](https://samwhelp.github.io/lika-live-build-config-enhance/) | [GitHub](https://github.com/samwhelp/lika-live-build-config-using) |
+| [lika-live-build-config-remix](https://samwhelp.github.io/lika-live-build-config-enhance/) | [GitHub](https://github.com/samwhelp/lika-live-build-config-remix) |
 | [lika-live-build-config-enhance](https://samwhelp.github.io/lika-live-build-config-enhance/) | [GitHub](https://github.com/samwhelp/lika-live-build-config-enhance) |
+
+
+| Link | GitHub |
+| ---- | ------ |
+| [lika-live-build-respin-xfce](https://samwhelp.github.io/lika-live-build-config-enhance/) | [GitHub](https://github.com/samwhelp/lika-live-build-respin-xfce) |
+| [lika-live-build-respin-kde](https://samwhelp.github.io/lika-live-build-config-enhance/) | [GitHub](https://github.com/samwhelp/lika-live-build-respin-kde) |
+| [lika-live-build-respin-lxqt](https://samwhelp.github.io/lika-live-build-config-enhance/) | [GitHub](https://github.com/samwhelp/lika-live-build-respin-lxqt) |
+| [lika-live-build-respin-mate](https://samwhelp.github.io/lika-live-build-config-enhance/) | [GitHub](https://github.com/samwhelp/lika-live-build-respin-mate) |
+| [lika-live-build-respin-cinnamon](https://samwhelp.github.io/lika-live-build-config-enhance/) | [GitHub](https://github.com/samwhelp/lika-live-build-respin-cinnamon) |
+| [lika-live-build-respin-gnome](https://samwhelp.github.io/lika-live-build-config-enhance/) | [GitHub](https://github.com/samwhelp/lika-live-build-respin-gnome) |
+| [lika-live-build-respin-openbox](https://samwhelp.github.io/lika-live-build-config-enhance/) | [GitHub](https://github.com/samwhelp/lika-live-build-respin-openbox) |
+| [lika-live-build-respin-bspwm](https://samwhelp.github.io/lika-live-build-config-enhance/) | [GitHub](https://github.com/samwhelp/lika-live-build-respin-bspwm) |
+| [lika-live-build-respin-i3](https://samwhelp.github.io/lika-live-build-config-enhance/) | [GitHub](https://github.com/samwhelp/lika-live-build-respin-i3) |
 
 
 
