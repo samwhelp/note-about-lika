@@ -10,14 +10,18 @@ has_children: true
 
 
 
-## Kali
+## Debian Live
 
-| Kali |
-| ---- |
-| Kali Linux / [live-build-config](https://gitlab.com/kalilinux/build-scripts/live-build-config) |
-| Kali Linux / [live-build-config-examples](https://gitlab.com/kalilinux/recipes/live-build-config-examples) |
-| Kali Linux / [How to Creating A Custom Kali ISO](https://www.kali.org/docs/development/live-build-a-custom-kali-iso/) |
+| Debian Live |
+| ----------- |
 | [Debian Live Manual](https://live-team.pages.debian.net/live-manual/html/live-manual/index.en.html) |
+| [Debian Live Team](https://salsa.debian.org/live-team) |
+
+| Debian Live Team |
+| ---------------- |
+| [live-build](https://salsa.debian.org/live-team/live-build) |
+| [live-boot](https://salsa.debian.org/live-team/live-boot) |
+| [live-config](https://salsa.debian.org/live-team/live-config) |
 
 
 
