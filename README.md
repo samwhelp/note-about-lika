@@ -10,6 +10,9 @@
 | [Lika OS / Live Build Config](https://samwhelp.github.io/note-about-lika-live-build-config/) | [GitHub](https://github.com/samwhelp/note-about-lika-live-build-config) |
 
 
+> 目前是基於「[Debian 13 Trixie](https://samwhelp.github.io/note-about-debian/read/link/release/debian-13-trixie.html)」。
+
+
 
 
 ## 主題
